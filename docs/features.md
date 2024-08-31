@@ -30,5 +30,6 @@ A traves de una interfaz amigable el usuario podra:
 
 9. Soporte y Chat en Vivo: Integración de un sistema de soporte para consultas y atención al cliente en tiempo real. 
 
+10. Solo aquellos que cumplan con la mayoría de los requisitos solicitados podrán vender productos
 
 
