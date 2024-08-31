@@ -8,6 +8,6 @@ El diseño completoesta disponible en [Canva](https://www.canva.com/design/DAGPL
 1. Pantalla principal:
    Cuando el usuario ingrese a la aplicaicón verá una interfaz como esta:
    
-   ![Pantalla principal](images/pantalla-principal.png) 
+   ![Pantalla principal](images/inicio.png) 
 
    
