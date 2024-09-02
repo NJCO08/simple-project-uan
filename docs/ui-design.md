@@ -10,7 +10,7 @@ A continuación se presentan las principales pantallas:
    ![Inicio](images/Inicio.jpg) 
 
 2. Registro e inicio de sesión:
-   ![Inicio de sesion](images/inicio-de-sesion.png)
+   ![Inicio de sesion](images/registro.jpg)
 
 3. Lista de productos
    ![Lista de productos](images/bicicletas.png)
