@@ -20,16 +20,16 @@ A continuación se presentan las principales pantallas:
    
 5. Ofertas disponibles:
    El usuario tendrá disponible una pestaña con una serie de ofertas para mayor ahorro:
-   ![Ofertas disponibles](images/Ofertas.jng)
+   ![Ofertas disponibles](images/Ofertas.jpg)
 
 6. Vender un producto:
    Si el usuario cumple con los requisitos, podrá vender sus productos:
-   ![Vender un producto](images/Vender.pjg)
+   ![Vender un producto](images/Vender.jpg)
 
 7. Chat
   El usuario tendrá la posibilidad de comunicarse con los distintos vendedores en caso de reclamos o preguntas sobre algún producto. Además, contará con un asistente
   personal y un apartado para quejas:
-  ![Chat](images/Chat.png)
+  ![Chat](images/Chat.jpg)
 8. Perfil:
   El usuario podrá visualizar toda su información, como historial de compras, nombre de usuario, dirección, entre otros detalles:
-  ![Perfil](images/Perfil.pjg)
+  ![Perfil](images/Perfil.jpg)
