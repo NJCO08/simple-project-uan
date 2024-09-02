@@ -16,15 +16,15 @@ A continuación se presentan las principales pantallas:
 
 5. Lista de productos:
    El usuario podrá visualizar la lista de productos disponibles en cada sección: bicicletas, componentes y accesorios:
-   ![Lista de productos](images/Bicicletas.png)
+   ![Lista de productos](images/Bicicletas.jpg)
    
 6. Ofertas disponibles:
    El usuario tendrá disponible una pestaña con una serie de ofertas para mayor ahorro:
-   ![Ofertas disponibles](images/Ofertas.png)
+   ![Ofertas disponibles](images/Ofertas.jng)
 
 7. Vender un producto:
    Si el usuario cumple con los requisitos, podrá vender sus productos:
-   ![Vender un producto](images/Vender.png)
+   ![Vender un producto](images/Vender.pjg)
 
 8. Chat
   El usuario tendrá la posibilidad de comunicarse con los distintos vendedores en caso de reclamos o preguntas sobre algún producto. Además, contará con un asistente
@@ -32,4 +32,4 @@ A continuación se presentan las principales pantallas:
   ![Chat](images/Chat.png)
 9. Perfil:
   El usuario podrá visualizar toda su información, como historial de compras, nombre de usuario, dirección, entre otros detalles:
-  ![Perfil](images/Perfil.png)
+  ![Perfil](images/Perfil.pjg)
