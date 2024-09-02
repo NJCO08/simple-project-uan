@@ -7,6 +7,7 @@ El diseño completo esta disponible en [Canva](https://www.canva.com/design/DAGP
 A continuación se presentan las principales pantallas:
 
 1. Inicio:
+
    Cuando el usuario ingrese a la aplicaicón verá una pantalla como esta:
    ![Inicio](images/Inicio.jpg) 
 
